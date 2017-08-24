@@ -1,0 +1,300 @@
+when was the last time i paid KPLC , 1 , 2 , 1 
+siku ipi ya mwisho nlilipa KPLC , 1 , 2 , 0 
+when did i pay KPLC 1200 , 2 , 2 , 1 
+when did i pay KPLC 1000 , 1 , 2 , 1 
+what is KPLC paybill number , 1 , 5 , 1 
+how much did i pay KPLC on 01-01-2017 11:04 , 2 , 7 , 1 
+ni lini mwisho nililipa KPLC , 1 , 2 , 0 
+nilipay KPLC , 1 , 0 , 0 
+when was the last pay to KPLC , 1 , 0 , 1 
+nilinunua stima ya ngapi , 1 ,7 , 0 
+nilinunua stima , 1 ,0 , 0 
+have i sent money to personOneNameA personOneNameB , 3 , 0 , 1 
+when did i receive money to personOneNameA personOneNameB , 3 , 2 , 1 
+did i receive money from phoneNopersonOne , 3 , 7 , 1 
+nilitumia phoneNopersonOne doh ngapi , 3 , 7 , 0 
+nilitumiwa doh ngapi na personOneNameA , 3 , 7 , 0 
+nilitumia doh personOneNameA personOneNameB , 3 , 7 , 0 
+doh za personOneNameA personOneNameB zilitumwa lini , 3 , 2 , 0  
+how much money did i receive from phoneNopersonOne , 3 , 7 , 1  
+what was transaction transactionNo3 for , 3 , 0 , 1 
+what is my balance , 1 , 8 , 1 
+nimebakisha doh ngapi , 1 , 8 , 0 
+nimebakisha doh ngapi kwa account , 1 , 8 , 0 
+nimebakisha doh ngapi kwa mpesa , 1 , 8 , 0 
+paybill ya KPLC ni , 1 ,6 , 0 
+nimenunua airtime , 4 , 0 , 0 
+nlibuy airtime , 4 , 0 , 0 
+airtime mwisho nlipurchase ilikuwa when , 4 , 2 , 0 
+when was the last time i bought airtime , 4 , 2 , 1 
+airtime misho nlibuy ilikuwa ya how much , 4 , 2 , 0 
+airtime mwisho nlipurchase ilikuwa how much , 4 , 7 , 0 
+how much airtime did i buy , 4 , 7 , 1 
+nliwithdraw mwisho lini , 5 , 2 , 0 
+when was the last time i withdrew from mpesa , 5 , 2 , 1 
+nilitoa lini mwisho , 5 , 2 , 0 
+give me the last withdrawal. , 5 , 0 , 1 
+nipe withdrawal  ya mwisho. , 5 , 0 , 0 
+get me the last withdrawal. , 5 , 0 , 1 
+nipe withdrawal  ya last. , 5 , 0 , 0 
+where was the last withdrawal , 5 , 4 , 1 
+wapi nilitolea mwisho , 5 , 4 , 0 
+list the transaction id of the last withdrawal , 5 , 1 , 1 
+id ya withdawal ya mwisho ni , 5 , 1 , 0 
+where was the last withdrawal , 5 , 4 , 1 
+wapi ndo nlitoa mwisho , 5 ,4 , 0 
+nliwithdraw wapi last time , 5 , 4 , 0 
+what was the location of the last withdrawal , 5 , 4 , 1 
+where was the last withdrawal from , 5 , 4 , 1 
+how much did i withdraw  on 02 dec 2016 ,5 , 7 , 1 
+nlitoa ngapi on 02 dec 2016 ,5 , 7 , 1 
+how much did i withdraw on my last transaction , 5 ,7 , 1 
+nlitoa ngapi on transaction ya mwisho ,  5 , 7 , 0 
+nlitoa how much last time nlitoa  ,  5 ,7 , 0 
+how much did i withdraw  on 02/12/2016 ,5 , 7 , 0 
+nlitoa what amount on 02/12/2016 ,5 , 7 , 0 
+nlitoa how much on 02-12-2016 ,5 , 7 , 0 
+nlitoa how much on 02-12-16 ,5 , 7 , 0 
+nlitoa amount whicha on 02.12.16 ,5 , 7 , 0 
+how much did i withdraw  on 02-12-2016 ,5 , 7 , 1 
+how much did i withdraw  on 02/12/16 ,5 , 7 , 1 
+what amount did i withdraw  on 02-12-2016 ,5 , 7 , 1 
+ahich amount did i withdraw  on 2.12.2016 ,5 , 7 , 1 
+when did i withdraw from kahawa wendani , 5 , 2 , 1 
+ni lini niliwithdraw from kahawa wendani , 5 , 2 , 0 
+what was the last transaction i made at kahawa wendani , 5 , 0 , 1 
+how much money have i withdrawn from kahawa wendani , 5 , 7 , 1 
+what remained after transaction id transactionNo5 , 5 , 8 , 1 
+what was the balance after transactionNo5 , 5 , 8 , 1 
+what was the balance after i withdrew from gazeti ltd , 5 , 8 , 1 
+what was the balance after i withdrew 2900 , 5 ,8 , 1 
+nlitumia personThreeNameA how much , 13 , 7 , 0 
+how much did i send to personThreeNameA personThreeNameB , 13 , 7 , 1 
+what amount did i send to 0725852815 , 13 , 7 , 1 
+what date did i send 230 to personThreeNameA , 13 , 2 , 1 
+nlitumia personThreeNameA pesa ngapi , 13 , 7  , 0 
+ni lini nlitumia 0725852815 pesa , 13 , 2 , 0 
+what was my last transaction with personThreeNameA , 13 ,0 , 1 
+nilitumia personThreeNameA doh , 13 , 0 , 0 
+how much did i send on 14/10/2016 , 13 , 7 , 1 
+how much did i send on 14/10/2016 , 13 , 7 , 1 
+how much did i send on 14/10/16 , 13 , 7 , 1 
+how much did i send on 14.10.2016 , 13 , 7 , 1 
+nlituma pesa ngapi on 14-10-2016 , 13 , 7 , 0 
+nliweka pesa on 14-10-2016 , 14 , 0 , 0 
+nliweka pesa ngapi on 14\10\2016 , 14 , 7 , 0 
+nlideposit how much on 14/10/2016 , 14 , 7 , 0 
+how much did i deposit on 14/10/16 , 14 , 7 , 1 
+what was the transaction type on 14.10.2016 , 14 , 3 , 1 
+when did i transact for roysambu , 14 , 2 , 1 
+what is the agent number for basil coms traders , 14 , 5 , 1 
+how much did i deposit to basil coms traders , 14 , 7 , 1 
+how much did i deposit to 317244 , 14 , 7 , 1 
+niliweka how much kwa hii agent number 317244 , 14 , 7 , 0 
+balance after i deposited 230 , 14 , 8 , 1 
+nliweka pesa ngapi kwa basil coms traders , 14 , 7 , 0 
+nlideposit how much in roysambu , 14 , 7 , 0 
+how much in did i deposit in roysambu , 14 , 7 , 1 
+niliweka doh ngapi kwa hii agent number 317244 , 14 , 7 , 0 
+how much did i deposit with this agent 317244 , 14 , 7 , 1 
+ni lini nlikuwa roysambu , 14 , 2 , 0 
+when was i in roysambu , 14 , 2 , 1 
+ni lini nlideposit 230 , 14 , 2 , 0 
+when did i deposit 230 , 14 , 2 , 1 
+when was my balance 273 , 14 , 8 , 1 
+ni lini balance yangu ilikuwa 273 , 14 , 8 , 0 
+when did i deposit to basil comms naki , 14 , 2 , 1 
+what is the transaction id of money i sent to phoneNopersonThree ,13 , 1 , 1 
+how much have i recieved from personTwoNameA , 12 , 7 , 0 
+what time did i receive from equity , 10 , 2 , 1  
+how much did i withdraw from equity bulk , 10 ,7 , 1 
+how much did i remain with after i paid 1200 to KPLC , 2 , 8 , 1 
+paybill number ya KPLC ni , 1 , 5 , 0 
+what is KPLC paybill number , 1 , 5 , 1 
+hii ni transaction number transactionNo2 ya payment gani , 2 , 0 , 0 
+transaction number transactionNo2 is for what payment , 2 , 0 , 1 
+after nireceive 525 from personOneNameB what was my balance , 3 , 8 , 0 
+what was my balance after i received 525 from personOneNameB , 3 , 8 , 1 
+nlipurchase airtime ya how much last time , 4 , 7 , 0 
+how much airtime did i purchase last time , 4 , 7 , 1 
+niliget how much from equity bulk account on 02-12-2016 13:59 , 6 , 7 , 0 
+how much did i get from equity bulk account on 02-12-2016 13:59 , 6 , 7 , 1 
+how much did i receive from equity bulk account on 02-12-2016 13:59 , 6 , 7 , 1 
+what type of transcation is number transactionNo6 , 5 , 3 , 1 
+transction number transactionNo6 ni ya aina gani , 5 , 3 , 1 
+when did i purchase 5 bob worth of airtime , 7 , 2 , 1 
+how much did i remain with after i purchased 5 bob of airtime , 7 , 8 , 1 
+how much airtime did i purchase at 11 on january 2016 , 7 , 7 , 1 
+at what time did i buy 5 bob airtime , 7 , 2 , 1 
+what was the paybill number of the transactionNo7 transaction , 7 , 5 , 1 
+what was the paybill number of the transactionNo7 , 7 , 5 , 1 
+what was the paybill number of the transactio number transactionNo7 , 7 , 5 , 1 
+who did i purchase from 10 airtime , 8 , 4 , 1 
+who transacted with me on 01-12-2016 11:54 , 8 , 4 , 1 
+transactionNo8 refers to which transaction , 8 , 1 ,0 
+transactionNo8 ni gani , 8 , 1 ,0 
+what transaction refers to kl13e3i9cr8 ,8 , 1 , 0 
+what is the trasaction number for 01-12-2016 11:54 airtime purchase , 8 , 1 ,1 
+when did i last buy 10 bob airtime , 7 ,  2 , 1 
+what was the balance after buying 10 sh airtime on 01-12-2016 , 8 , 8 , 1 
+what did i do on 01-12-2016 11:54 , 8 , 0 , 1 
+lini nilinunua airtime ya kobole , 7 , 2 , 0 
+lini nilinunua airtime ya ngovo , 7 , 2 , 0 
+airtime ya ngovo nilibuy lini , 7 , 2 , 0 
+lini nilinunua credo ya ngovo , 7 , 2 , 0 
+tulifanya biashara na nani on 01-12-2016 , 8 , 4 , 0 
+nilibakia na how much after ninunue airtime ya ngovo , 7 , 8 , 0 
+nilinuna airtime ya how much on 11 januari 2016 , 7 , 7 , 0 
+saa ngapi nilinia aitime ya five bob , 7 , 2 , 0 
+paybill namba ya transaction transactionNo7 ni , 7 , 5 , 0 
+paybill number ya transactionNo7 , 7 , 5 , 0 
+ni paybill numba gani ya transaction number transactionNo7 , 7 , 5 , 0 
+number transactionNo7 inahusiana na paybill gani , 7 , 5 , 0 
+transactionNo7 ni paybill gani , 7 , 5 , 0 
+nilinunua kutoka kwa nani airtime 10  , 8 , 4 , 0 
+nilinunua kutoka kwa nani airtime ya ashu  , 8 , 4 , 0 
+nanni alideal na mimi on 01-12-2016 11:54 , 8 , 4 , 0 
+transactionNo8 inaongelea transaction gani , 8 , 1 ,0 
+transactionNo8 ni gani , 8 , 1 ,0 
+trasaction numba ya 01-12-2016 11:54 ya kubuy kredo , 8 , 1 ,0 
+kubuy kredo ya saf ni paybill namba gani , 7 , 5 , 0 
+ukibuy kredo unatumia paybill gani , 7 , 6 , 0 
+siku gani hio nilibuy kredo ya ashu , 7 ,  2 , 0 
+siku gani hio nilibuy kredo ya 10 , 7 ,  2 , 0 
+siku gani hio nilibuy credit ya ashu , 7 ,  2 , 0 
+siku gani hio nilibuy airtime ya ashu , 7 ,  2 , 0 
+siku gani hio nilibuy credit ya 10 , 7 ,  2 , 0 
+siku gani hio nilibuy airtime ya 10 , 7 ,  2 , 0 
+when ndio nilibuy kredo ya ashu , 7 ,  2 , 0 
+balance after kubuy 10 sh airtime on 01-12-2016 , 8 , 8 , 0 
+nilifanya nini on 01-12-2016 11:54 , 8 , 0 , 0 
+kuna siku niliwithdraw 450 ilikuwa wapi , 9 , 4 , 0 
+ile siku niliwithdraw 450 ilikuwa kwa nani , 9 , 4 , 0 
+agent namba ya sagiir comms el-shadai beauty line ni ,  9 , 6 ,  0 
+after ni withdraw four fifte from elshadai nilibaki na how much , 9 , 8 , 0 
+nitoa ngapi on 30 november 2016 , 9 , 7 , 0 
+nillikuwa nafanya nini on 30-11-2016 , 9 , 0 , 0 
+niliwithrdaw on 30-11-2016 , 9 ,0 ,0 
+niliwithdraw ngapi on 30-11-2016 , 9 , 7 , 0 
+nilitoa how much kwa sagiir commms el shaddai , 9 , 8 , 0 
+when ndo nilikuwa sagiir comms el shaddai , 9 , 2 , 0 
+hii 490445 ilikuwa ya dealings za siku gani , 9 , 2 , 0 
+naona nlitoa 450 but ilikuwa wapi , 9 , 4 , 0 
+sagiir comms alinipea ngapi , 9 , 8 , 0 
+naona nlitoa four finje but ilikuwa wapi , 9 , 4 , 0 
+naona nlitoa four hundred and fifty but ilikuwa wapi , 9 , 4 , 0 
+naona nlitoa four soc na finje but ilikuwa wapi , 9 , 4 , 0 
+naona nlitoa four so na fifty but ilikuwa wapi , 9 , 4 , 0 
+naona nlitoa four soh na 50 but ilikuwa wapi , 9 , 4 , 0 
+ilikuwa jioni venye nlitoa 4 soh kwa el shaddai beauty ,9 , 0 , 0  
+nitoa ngapi on 30 novemba 2016 , 9 , 7 , 0 
+niliwithdraw four soh kwa sagiir lini , 9 , 2 , 0 
+agent namba ya sagiir ni , 9 , 6 , 0 
+kuna mahali niliwidraw 4 hundred on 30 november 2016 agent namba yake ni , 9 , 6 , 0 
+ni nini nili deal kwa sagiir comms el-shaddai beauty line joanje plaza n , 9 , 3 , 0 
+ni  transaction gani nili do kwa sagiir comms el-shaddai beauty line joanje plaza n , 9 , 3 , 0 
+ni  transaction gani nili do on 30 november 2016 , 9 , 3 , 0 
+ni  deal gani nili do date  30/11/2016 , 9 , 3 , 0 
+nilibakisha 30 bob after kufanya nini , 9 , 3 , 0 
+niliremain na salasa after transaction gani , 9 , 0 , 0 
+biashara gani iliniwacha na 30 bab , 9 , 0 , 0 
+ni wapi nilijikuta na thirty bob ime remain kwa mpesa , 9 ,4 ,0 
+ni lini nilijikuta na thirty bob ime remain kwa mpesa , 9 ,2 ,0 
+transaction namba ya sagiir ni , 9 , 1 , 0 
+ni mgani alinitolea 450 , 9 ,4 ,0 
+ni yupi aliye itolea 450 , 9 ,4 ,0 
+ni mgani alinipokezea 4 soh na fifty jioni , 9 , 4 , 0 
+there was a day i withdrew 450 where was i , 9 , 4 , 1 
+where did i withdraw 450 , 9 , 4 , 1 
+where did i withdraw 450 , 9 , 4 , 1 
+in whose place was i in when i withdrew 450 , 9 ,4 , 1  
+what is the agent number for sagiir comms el-shadai beauty line ,  9 , 6 ,  1 
+how much did i remain with after i withdrew four fifty from elshadai nilibaki , 9 , 8 , 1 
+how much did i remove on 30 november 2016 , 9 , 7 , 1 
+what was i doing  on 30-11-2016 , 9 , 0 , 1 
+did i withdraw on 30-11-2016 , 9 , 0 , 1 
+how much did i withdraw on 30-11-2016 , 9 , 7 , 1 
+how much did i withdraw kwa sagiir commms el shaddai , 9 , 8 , 1 
+when was i in sagiir comms el shaddai , 9 , 2 , 1 
+the 490445 number refers to dealings of which day , 9 , 2 , 1 
+i see i withdrew 450 where was it , 9 , 4 , 1 
+sagiir comms gave me how much , 9 , 8 , 1 
+how much was i given by sagiir comms , 9 , 8 , 1 
+i see i withdrew four fifty but where was i , 9 , 4 , 1 
+i see i withdrew four hundred and fifty but where was i , 9 , 4 , 1 
+where was i when i see i withdrew 450 , 9 , 4 , 1 
+where was i when i withre 400 , 9 , 4 , 1 
+it was in the evening when i withdrew four hundred at el shaddai beauty ,9 , 0 , 1 
+amount i withdrew on 30 novemba 2016 , 9 , 7 , 1 
+how much cash did i have on 30 novemba 2016 , 9 , 7 , 1 
+when did i withdraw 400 from sagiir , 9 , 2 , 1 
+what is sagiir agent number , 9 , 6 , 1 
+give me sagiir's agent number , 9 , 6 , 1 
+give me the agent nmber for the transaction i made on 30th nov , 9 , 6 , 1 
+there is a place i withdrew 4 hundred on 30th november what is its agent namber , 9 , 6 , 1 
+there is a place i withdrew 4 hundred on 30 november 2016 what is its agent namber , 9 , 6 , 1 
+what is the agent number of the place i withdrew from on 30 november 2016 , 9 , 6 , 1 
+what is the agent number of the place i withdrew from on thirtieth november , 9 , 6 , 1 
+what is the agent number of the place i withdrew from on 30th november 2016 , 9 , 6 , 1 
+when did i deal with sagiir comms el-shaddai beauty line joanje plaza n , 9 , 3 , 1 
+what  transaction did i do with sagiir comms el-shaddai beauty line joanje plaza n , 9 , 3 , 1 
+which transaction did i do on 30th november 2016 , 9 , 3 , 1 
+what deal did i do on date  30/11/2016 , 9 , 3 , 1 
+what business did i have on date  30/11/2016 , 9 , 3 , 1 
+i was left 30 bob after doing what , 9 , 3 , 1 
+i remained with thirty bob after doing what transaction , 9 , 0 , 1 
+what transaction left me  with thirty bob , 9 , 0 , 1 
+what business left me with a balance of 30 bab , 9 , 0 , 1 
+how did i remain with thirty bob in mpesa , 9 ,4 ,1 
+when did i remain with 30 bob on mpesa , 9 ,2 ,1 
+transaction namba ya sagiir ni , 9 , 1 , 1 
+what agent did i use to withraw 450 , 9 ,4 ,1 
+where did i withdraw 450 , 9 ,4 ,1 
+which agent gave me 4 hundred na fifty in the evening , 9 , 4 , 1 
+agent number ya kats comms services ni , 11 , 5 , 0 
+transaction number ya kats comms services ni , 11 , 1 , 0 
+niliwithdraw how much at 2pm 14th october , 11 , 7 , 0 
+niliwithdraw what amount at 1400 14th october , 11 , 7 , 0 
+kat comms ilinipea how much on 14-10 , 11 , 7 , 0 
+nilichua how much from kats comms services smartphone shop , 11 , 7 , 0 
+personTwoNameA alinitumia ngapi , 12 , 7 , 0 
+number ya personTwoNameA personOneNameA ni , 12 , 5 , 0 
+namba ya personThreeNameA personThreeNameB ni , 13 , 5 , 0 
+nilitumia personThreeNameA 2 soh lini , 13 , 2 , 0 
+nilituma ama nilitumia personThreeNameA 230 , 13 , 3 , 0 
+nitumia personThreeNameA how much saa nne , 13 , 7 , 0 
+personTwoNameA alikutumia or ulimtumia , 12 , 3 , 0 
+nilibaki na ngapi after kutumia personThreeNameB , 13 , 8 , 0 
+saa nne ndo nilitumia personThreeNameA , 13 , 0 , 0 
+phoneNopersonTwo alituma any , 12 , 7 , 0 
+phoneNopersonTwo alituma any , 12 , 7 , 0 
+after kureceive phoneNopersonTwo nilibaki na , 12 , 8 , 0 
+saa tano 14th november nilireceive any , 12 , 7 , 0 
+saa nne 14th november nilituma any , 12 , 7 , 0 
+personTwoNameA alinitumia doh saa ngapi , 12 , 2 , 0 
+hio 2 soc nilitumia personThreeNameA ilikuwa saa ngapi , 13 , 2 , 0 
+hio 3 soc nilitumiwa na personTwoNameA ilikuwa saa ngapi , 12 , 2 , 0 
+hio 200 nilitumia personThreeNameA ilikuwa saa ngapi , 13 , 2 , 0 
+hio 300 nilitumiwa na personTwoNameA ilikuwa saa ngapi , 12 , 2 , 0 
+hio 230 nilitumia personThreeNameA ilikuwa saa ngapi , 13 , 2 , 0 
+hio 327 nilitumiwa na personTwoNameA ilikuwa saa ngapi , 12 , 2 , 0 
+nilitumiwa how much  saa tano november , 12 , 7 , 0 
+nilitumiwa how much na phoneNopersonTwo saa tano , 12 , 7 , 0 
+when nilipay personThreeNameA , 13 , 2 , 0 
+nilipay personThreeNameA how much november , 13 , 7 , 0 
+nilibaki na how much after nilipe phoneNopersonThree 2 soh , 13 , 8 , 0 
+saa nne nlideposit any huko basil comms , 14 , 7 , 0 
+after nideposit oktober 2016 saa nne nikuwa na balance ya , 14 , 8 , 0 
+after nideposit 230 nilikuwa na ngapi kwa mpesa , 14 , 8 , 0 
+after nideposit two thirty nilikuwa na ngapi kwa mpesa , 14 , 8 , 0 
+roysambo basil ni agent number gani , 14 , 5 , 0 
+when did i withdraw at jobliu uchumi house , 15 , 2 , 0 
+nilitoa ngapi at jobliu uchumi house , 15 , 7 , 0 
+nilitoa lini at jobliu uchumi house , 15 , 2 , 0 
+nilitoa wapi saa saba 07-10-2016 , 15 , 4 , 0 
+niliwithdraw wapi saa saba 07 october 2016 , 15 , 4 , 0 
+niliwithdraw wapi saa moja 07 october 2016 , 16 , 4 , 0 
+wimtech comms walinipea doh ngapi? 16 , 7 , 0 
+namba ya southtetu exibition ni , 16 , 6 , 0 
+niwachwa na any after niwithdrraw on 17-09-2016 , 16 , 8 , 0 
+nilitoa 2 soh lini from south tetu stall , 16 , 2 , 0 

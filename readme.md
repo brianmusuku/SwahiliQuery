@@ -1,7 +1,7 @@
 # SwahiliQuery
 
 A neural question answering model for swahili queries on mpesa statements.
-See [https://medium.com/@menace_/how-to-build-a-swahili-question-answering-system-for-your-mpesa-statements-d2f30fb3524e](The medium post.)
+Post: [https://medium.com/@menace_/how-to-build-a-swahili-question-answering-system-for-your-mpesa-statements-d2f30fb3524e]
 
 
 ### Prerequisites
